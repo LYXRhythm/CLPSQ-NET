@@ -34,4 +34,5 @@ We also provide the [pretrained](https://drive.google.com/file/d/1KYLeIswRZgVTzf
 python evaluate.py
 ```
 
-**If this repository helps you，please star it and quote from our paper. Thanks.**
+## Thanks 
+If this repository helps you，please star it and quote from our paper. Thanks.
