@@ -1,0 +1,30 @@
+stage2: epoch:[0/500], loss:7.3521, train accuracy:0.0675
+test accuracy:0.0000
+stage2: epoch:[1/500], loss:7.2857, train accuracy:0.5312
+test accuracy:0.0000
+stage2: epoch:[2/500], loss:6.3825, train accuracy:0.9286
+test accuracy:0.2414
+stage2: epoch:[3/500], loss:6.5781, train accuracy:0.9935
+test accuracy:0.3793
+stage2: epoch:[4/500], loss:5.9885, train accuracy:0.9974
+test accuracy:0.6207
+stage2: epoch:[5/500], loss:5.0494, train accuracy:0.9974
+test accuracy:0.6897
+stage2: epoch:[6/500], loss:5.3138, train accuracy:0.9974
+test accuracy:0.7241
+stage2: epoch:[7/500], loss:5.4383, train accuracy:0.9987
+test accuracy:0.8276
+stage2: epoch:[8/500], loss:5.2025, train accuracy:1.0000
+test accuracy:0.7931
+stage2: epoch:[9/500], loss:4.1505, train accuracy:1.0000
+test accuracy:0.8966
+stage2: epoch:[10/500], loss:4.1962, train accuracy:1.0000
+test accuracy:0.8966
+stage2: epoch:[11/500], loss:3.1949, train accuracy:0.9974
+test accuracy:0.8621
+stage2: epoch:[12/500], loss:3.6938, train accuracy:0.9987
+test accuracy:0.8966
+stage2: epoch:[13/500], loss:4.0312, train accuracy:0.9974
+test accuracy:0.8276
+stage2: epoch:[14/500], loss:3.6501, train accuracy:0.9987
+test accuracy:0.9310

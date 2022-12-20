@@ -1,0 +1,17 @@
+stage1: epoch:[0/500], loss:3.0910 
+stage1: epoch:[1/500], loss:2.9150 
+stage1: epoch:[2/500], loss:2.9297 
+stage1: epoch:[3/500], loss:2.9404 
+stage1: epoch:[4/500], loss:2.8928 
+stage1: epoch:[5/500], loss:3.0217 
+stage1: epoch:[6/500], loss:2.8686 
+stage1: epoch:[7/500], loss:3.0831 
+stage1: epoch:[8/500], loss:2.8666 
+stage1: epoch:[9/500], loss:2.7986 
+stage1: epoch:[10/500], loss:2.7086 
+stage1: epoch:[11/500], loss:2.6265 
+stage1: epoch:[12/500], loss:2.6238 
+stage1: epoch:[13/500], loss:2.7655 
+stage1: epoch:[14/500], loss:2.7159 
+stage1: epoch:[15/500], loss:2.7048 
+stage1: epoch:[16/500], loss:2.6948 

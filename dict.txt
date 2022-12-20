@@ -1,0 +1,8 @@
+microhap2.1microhap1.15microha48.7microha16.1,0
+microhap2.2microhap1.4microha48.19microha16.7,1
+microhap2.1microhap1.3microha48.10microha16.7,2
+microhap2.6microhap1.15microha48.10microhap16.13,3
+microhap2.0microhap1.3microha48.7microha16.4,4
+microhap2.2microhap1.3microha48.15microha16.1,5
+microhap2.0microhap1.3microha48.8microha16.7,6
+microhap2.2microhap1.18microha48.14microhap16.0,7
