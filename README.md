@@ -8,7 +8,7 @@ This code is for the paper "CLPSQ-NET"
 * numpy 1.18.5
 
 ## Data Preparation
-We provide two public datasets for evaluating algorithm performance [PSQ-8](https://drive.google.com/file/d/1e1ZBQKxu9Jfug6RL60h_VO6a95GHe6jR/view?usp=share_link) and PSQ-1000.
+We provide two public datasets for evaluating algorithm performance [PSQ-8](https://drive.google.com/file/d/1e1ZBQKxu9Jfug6RL60h_VO6a95GHe6jR/view?usp=share_link) and [PSQ-1440](https://drive.google.com/file/d/1FUbtxVe4am-nwptGZMPa2JM8LHIoLH3w/view?usp=share_link).
 
 Follow the link above to download the dataset and extract it to the root directory. The following command converts the 'csv' format data in the dataset to the 'npy' format used by the program.
 ```
